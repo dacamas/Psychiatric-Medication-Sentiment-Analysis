@@ -1,5 +1,5 @@
 # Psychiatric Medication Sentiment Analysis
-https://colab.research.google.com/github/dacamas/Psychiatric-Medication-Sentiment-Analysis/edit/main/README.md
+https://colab.research.google.com/github/dacamas/Psychiatric-Medication-Sentiment-Analysis
 
 Binary sentiment classifier for patient-authored psychiatric medication reviews, fine-tuned on 40k+ real-world reviews from Drugs.com.
 
